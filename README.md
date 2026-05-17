@@ -47,18 +47,6 @@ After installation, open DeskMate from the Start menu. If Windows SmartScreen ap
 4. Use edit mode to move and resize widgets.
 5. Open settings to customize appearance, grid layout, AI providers, data backup, and startup behavior.
 
-## Startup Behavior
-
-DeskMate can start automatically when Windows starts. When enabled, it creates a Windows Task Scheduler entry with high startup priority so DeskMate starts as early as Windows reasonably allows.
-
-Windows does not guarantee that any user app can start before every other startup item, but DeskMate uses the strongest practical approach available for a normal desktop app:
-
-- logon trigger
-- no startup delay
-- highest available run level
-- highest task priority
-- high process priority after launch
-
 ## Privacy
 
 DeskMate stores its settings locally on your machine. Some widgets or integrations may contact external services when you configure them, such as weather, AI providers, Gmail, Google Photos, Jira, RSS feeds, translation, currency, or stocks.
