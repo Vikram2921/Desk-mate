@@ -1,4 +1,6 @@
+
 # DeskMate
+![enter image description here](https://github.com/Vikram2921/Desk-mate/blob/4e217de3f810a11347f4f690bcb54aa86f2868ba/Screenshot%202026-05-17%20114412.png)
 
 DeskMate is a customizable Windows desktop widget canvas built with Tauri, React, and TypeScript. It sits behind your normal windows as a desktop overlay and lets you build a personal dashboard with clocks, notes, system stats, shortcuts, folders, app launchers, timers, feeds, and more.
 
@@ -96,4 +98,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
